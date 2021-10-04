@@ -1,0 +1,53 @@
+.jumbotron-fluid {
+    text-align: center;
+}
+
+.topHead {
+    background-color: rgb(245, 151, 117);
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+h1 {
+    margin: 5px auto;
+}
+
+.lead {
+    margin: 7px 6px;
+}
+
+.horBar {
+    background-color: black;
+    height: 4px;
+    width: 60%;
+    margin: 10px auto;
+}
+
+.section_center_list-grid {
+    text-align: center;
+    background-color: rgb(156, 112, 121);
+    width: 40%;
+    margin: 2px auto;
+    border-radius: 10px;
+}
+
+.midSecHead {
+    padding: 10px;
+    margin: 5px;
+    text-decoration: underline;
+}
+
+.nameList {
+    list-style: inside;
+    padding-bottom: 10px;
+    margin: 0px;
+    margin-block-start: 0px;
+}
+
+a {
+    color: black;
+    font-size: 15px;
+}
